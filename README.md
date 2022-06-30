@@ -1,6 +1,6 @@
 # Sheety: Rotation Builder
 [![Discord](https://user-images.githubusercontent.com/5113962/116616080-e2a0ee80-a944-11eb-8c1f-b838233b29d5.png)][discord]
-[![Sheety](https://user-images.githubusercontent.com/5113962/116616080-e2a0ee80-a944-11eb-8c1f-b838233b29d5.png)][sheety]
+[![Sheety](https://i.imgur.com/Dlaubpx.png][sheety]
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -46,4 +46,4 @@
 </details>
 
 [discord]: https://discord.gg/8WG7bR58QE
-[sheety]: https://i.imgur.com/Dlaubpx.png
+[sheety]: https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE
