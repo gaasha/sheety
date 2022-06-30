@@ -9,7 +9,8 @@
   
 ## Sheety link
 - [Latest version](https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE)
-- File → Make a Copy (Do not click Request Access!)
+- <b>File</b> → <b>Make a Copy</b>
+- Don't request edit permissions!
 
 ## Join our Discord
 [![Discord](https://user-images.githubusercontent.com/5113962/116616080-e2a0ee80-a944-11eb-8c1f-b838233b29d5.png)][discord]
