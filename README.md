@@ -101,9 +101,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-a
+:zap: GitHub Stats
 
 </details>
 
