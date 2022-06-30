@@ -23,7 +23,7 @@ In our server you can:
 Check out the [wiki](https://github.com/gaasha/sheety/wiki) section of the GitHub to know more about features and how to use them.
 
 ## Change log
-List of notable changes for each version of Sheety: [CHANGELOG.md](CHANGELOG.md).
+List of notable changes for each version of Sheety: [CHANGELOG](CHANGELOG.md).
 
 [discord]: https://discord.gg/8WG7bR58QE
 [sheety]: https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE
