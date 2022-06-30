@@ -1,4 +1,5 @@
 ## Change log
+### 2.4.2
 - Fixed	Deadshot damage
 - Fixed	Exsanguinate stacks not clearing after the timer ends
 - Fixed	Gloves of Passage default options (not equipped)
