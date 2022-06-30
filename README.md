@@ -6,7 +6,7 @@
   
 ## Sheety link
   <a href="https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE">
-    <img src="https://imgur.com/OfqOgR6.png" alt="Logo" width="150" height="150">
+    <img src="https://imgur.com/OfqOgR6.png" alt="Logo" width="175" height="100">
   </a>
 
 ## Join our Discord
