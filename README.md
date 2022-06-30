@@ -5,7 +5,7 @@
   </p>
   
 ## Sheety link
-[![Sheety](https://imgur.com/OfqOgR6)][sheety]
+[![Sheety](https://imgur.com/OfqOgR6.png)][sheety]
 
 ## Join our Discord
 In our server you can:
