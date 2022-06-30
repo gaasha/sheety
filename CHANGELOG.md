@@ -53,20 +53,19 @@
 - Added Relics at the top of the rotation builder. They will also appear when exporting
 
 ### 2.3.3
-- Fixed an error causing wrack and ruin to not work when under Exsanguinate stacks
-- Changed Time Warp to give adrenaline after the effect
-- Fixed the amount of adrenaline given after Time Warp. It depends on the adrenaline you had at the end of TW's activation tick
+- Fixed an error causing `wrackruin` (Wrack and ruin) to not work when at 12 Exsanguinate stacks
+- Fixed the amount of adrenaline given after `Time Warp`. It depends on the adrenaline you had at the end of TW's activation tick
 - Added Vorago Phase 1 template post rework
 - Fixed an error with adrenaline overflow, causing autos to give adrenaline after specs
 
 ### 2.3.2
-- Added the ability GChain (Greater Chain)
-- Added the ability Vuln Bomb
+- Added `GChain` (Greater Chain)
+- Added `Vuln Bomb`
 - Fixed an error when adding multiple spaces between abilities
-- Fixed  an error causing the 3rd+ abilities to not affect adrenaline in some cases
+- Fixed  an error causing abilities to not affect adrenaline in some cases
 - Added 142 rows for longer rotations
-- Added Deathspore effect work as an ability
-- Fixed Ingen's highlight duration
+- Added `Deathspore` effect
+- Fixed `Ingen` highlight duration
 - Fixed an error causing Natural Instinct to return the wrong values
 
 ### 2.3.1
@@ -78,7 +77,7 @@
 - Changed the Crit ability to only give adrenaline when under the effects of Incendiary/Tsunami/Meteor
 - Added a new Template called Blank, which starts at the tick you choose and 100% damage on every cell
 - Changed the name of the old Blank template to Default, which now starts at tick -23 and only adds damage starting from tick 0
-- Added "Lose Target" (stop gaining/losing adrenaline) and "Target Cycle" (regain target)
+- Added `Lose Target` to stop gaining/losing adrenaline and `Target Cycle` (regain target)
 - Fixed hit timing of Flurry after barge
 - Fixed hits 2/3/4 for Destroy after Barge
 - Changed the font colour when Limitless error is displayed
