@@ -7,7 +7,7 @@
   </p>
   
 ## Sheety link
-- [Latest version of Sheety](https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE)
+- [Latest version](https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE)
 - File → Make a Copy (Do not click Request Access!)
 
 ## Join our Discord
