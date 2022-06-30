@@ -5,7 +5,7 @@
   </p>
   
 ## Sheety link
-[![Discord](https://toppng.com/uploads/preview/google-sheets-logo-11609363206tkmkcmlnld.png)][sheety]
+[![Discord](https://imgur.com/5pg9hqF)][sheety]
 
 ## Join our Discord
 In our server you can:
