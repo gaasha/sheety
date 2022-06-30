@@ -3,9 +3,8 @@
   <p align="center">
     <img src="https://i.imgur.com/Dlaubpx.png" alt="Logo" width="450" height="187.5">
   <br>
-  By gasha#3656
   </p>
-  <sub>aaaa </sub>
+  <sub align="center">By gasha#3656</sub>
   
 ## Sheety link
 - [Latest version](https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE)
