@@ -39,14 +39,14 @@
 - Changed the format of the Changelog
 - Fixed Surge during GCD with Natty active
 - Added Relics at the top of the rotation builder. They will also appear when exporting
-- 
+
 ### 2.3.3
 - Fixed an error causing wrack and ruin to not work when under Exsanguinate stacks
 - Changed Time Warp to give adrenaline after the effect
 - Fixed the amount of adrenaline given after Time Warp. It depends on the adrenaline you had at the end of TW's activation tick
 - Added Vorago Phase 1 template post rework
 - Fixed an error with adrenaline overflow, causing autos to give adrenaline after specs
-- 
+
 ### 2.3.2
 - Added the ability GChain (Greater Chain)
 - Added the ability Vuln Bomb
