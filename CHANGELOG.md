@@ -18,7 +18,7 @@ More info on sprites added can be seen [here](https://github.com/melkypie/resour
 - Add button/menu*
 - Fix xp tracker border coloring
 
-### 1.0.4
+### 1.0.4 `30-06-2022`
 - Add for `DIALOG` - `BACKGROUND_BRIGHTER`
 - Add for `EQUIPMENT` - `SLOT_HEAD`, `SLOT_CAPE`, `SLOT_NECK`, `SLOT_WEAPON`, `SLOT_RING`, `SLOT_TORSO`, `SLOT_SHIELD`, `SLOT_LEGS`, `SLOT_HANDS`, `SLOT_FEET`, `SLOT_AMMUNITION`
 - Create a new folder `OPTIONS`
