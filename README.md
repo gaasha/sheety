@@ -6,6 +6,8 @@
   By gasha#3656
   </p>
   
+  ###### gasha
+  
 ## Sheety link
 - [Latest version](https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE)
 - File → Make a Copy (Do not click Request Access!)
