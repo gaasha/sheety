@@ -3,6 +3,9 @@
   <p align="center">
     <img src="https://i.imgur.com/Dlaubpx.png" alt="Logo">
   </p>
+  
+## Sheety link
+[![Discord](https://toppng.com/uploads/preview/google-sheets-logo-11609363206tkmkcmlnld.png)][sheety]
 
 ## Join our Discord
 In our server you can:
