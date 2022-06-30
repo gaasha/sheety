@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/Dlaubpx.png" alt="Logo" width="450" height="187.5">
   <br>
   </p>
-  <p style="font-size:18px;" alignt="center">By gasha#3656</p>
+  <p style="font-size:18px" alignt="center">By gasha#3656</p>
   
 ## Sheety link
 - [Latest version](https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE)
