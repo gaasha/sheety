@@ -1,11 +1,15 @@
 # Sheety
+<p align="center">
 [![Sheety](https://i.imgur.com/Dlaubpx.png)][sheety]
+</p>
 
 ## Join our Discord
-You can:
+In our server you can:
 - Submit bug reports and request features
 - Ask for support
 - Access features early
+
+package.json
 
 [![Discord](https://user-images.githubusercontent.com/5113962/116616080-e2a0ee80-a944-11eb-8c1f-b838233b29d5.png)][discord]
 
