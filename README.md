@@ -18,17 +18,8 @@ In our server you can:
 
 [![Discord](https://user-images.githubusercontent.com/5113962/116616080-e2a0ee80-a944-11eb-8c1f-b838233b29d5.png)][discord]
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 Check out my VS Code course
-
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+## Documentation
+Check out the [wiki](https://github.com/gaasha/sheety/wiki) section of the GitHub to know more about features and how to use them.
 
 ### Languages and Tools:
 
