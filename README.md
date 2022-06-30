@@ -74,6 +74,8 @@
 ---
 
 ### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
+# 📕 Latest Blog Posts
 
 - [Text](link)
   - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-
