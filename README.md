@@ -10,8 +10,6 @@ In our server you can:
 - Ask for support
 - Access features early
 
-package.json
-
 [![Discord](https://user-images.githubusercontent.com/5113962/116616080-e2a0ee80-a944-11eb-8c1f-b838233b29d5.png)][discord]
 
 ## I'm a Husband, Father, Developer, and Teacher!!
