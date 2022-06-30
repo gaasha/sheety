@@ -2,12 +2,13 @@
   
   <p align="center">
     <img src="https://i.imgur.com/Dlaubpx.png" alt="Logo">
+  <br>
+    By gasha#3656
   </p>
   
 ## Sheety link
-  <a href="https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE">
-    <img src="https://imgur.com/OfqOgR6.png" alt="Logo" width="175" height="100">
-  </a>
+- [Latest version of Sheety](https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE)
+- File → Make a Copy (Do not click Request Access!)
 
 ## Join our Discord
 In our server you can:
