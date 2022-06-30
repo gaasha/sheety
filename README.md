@@ -1,7 +1,7 @@
 <p align="center">
   
   <p align="center">
-    <img src="https://i.imgur.com/Dlaubpx.png" alt="Logo">
+    <img src="https://i.imgur.com/Dlaubpx.png" alt="Logo" width="300" height="150">
   <br>
     By gasha#3656
   </p>
