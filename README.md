@@ -5,7 +5,9 @@
   </p>
   
 ## Sheety link
-[![Sheety](https://imgur.com/OfqOgR6.png)][sheety]
+  <a href="https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE">
+    <img src="https://imgur.com/OfqOgR6.png" alt="Logo" width="150" height="150">
+  </a>
 
 ## Join our Discord
 In our server you can:
