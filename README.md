@@ -2,6 +2,7 @@
   
   <p align="center">
     <img src="https://i.imgur.com/Dlaubpx.png" alt="Logo">
+    <br>
     Sheety is a Rotation Builder for RuneScape 3.
   </p>
 
