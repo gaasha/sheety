@@ -8,7 +8,7 @@
 
   
 ## Sheety link
-- [Latest version](https://docs.google.com/spreadsheets/d/1Qw1_P1EHgwnehXWLbQQNoUi1QgfKOSpa5wiNA6eN0zE)
+- [Latest version][sheety]
 - <b>File</b> → <b>Make a Copy</b>
 - Don't request edit permissions!
 
