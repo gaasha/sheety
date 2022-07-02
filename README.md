@@ -27,4 +27,4 @@ Check out the [wiki](https://github.com/gaasha/sheety/wiki) section of the GitHu
 List of notable changes for each version of Sheety: [CHANGELOG](CHANGELOG.md).
 
 [discord]: https://discord.gg/8WG7bR58QE
-[sheety]: https://docs.google.com/spreadsheets/d/1Am5H_fiy1xuYxTkUXPXIlLy72fTagC6SGnbbV07ED40
+[sheety]: https://docs.google.com/spreadsheets/d/1KqvnSLt0yBE_N2MFaaYBoSxDgadmXAYePtNMTcjrlLI
