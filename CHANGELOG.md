@@ -12,6 +12,7 @@
 - Fixed	Wrack and Ruin to work after the exsanguinate stacks timer hits 0
 - Fixed	interactions with `Crits` when not under the effects of Incendiary (and variants) or FSoA
 - Added	the error `Lost stall` when a stall is interrupted
+- Fixed `Barge` (Greater Barge) to now work only after 8 ticks have passed since the last damaging ability
 
 ### 2.4.1
 - Added `Vengeance` and `Dreadnip`
