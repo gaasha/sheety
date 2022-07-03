@@ -1,4 +1,7 @@
 ## Change log
+### 2.4.3
+- Fixed `Barge` (Greater Barge) buff to take into account channeled abilities
+
 ### 2.4.2
 - Fixed	Deadshot damage
 - Fixed	Exsanguinate stacks not clearing after the timer ends
