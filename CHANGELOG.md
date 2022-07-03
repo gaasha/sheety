@@ -1,6 +1,8 @@
 ## Change log
 ### 2.4.3
 - Fixed `Barge` (Greater Barge) buff to take into account channeled abilities
+- Added cooldown reduction to `Zerk` (Berserk) when `Flurry` (Greater Flurry) lands a hit
+  - For more information go [here](https://runescape.wiki/w/Greater_Flurry)
 
 ### 2.4.2
 - Fixed	Deadshot damage
