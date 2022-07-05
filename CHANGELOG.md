@@ -8,7 +8,7 @@
 - Added an option for Enchantment of agony (Gloves of passage)
   - For more information go [here](https://runescape.wiki/w/Enchantment_of_agony)
 - Added wildcards to ability names. Aliases and shorter names will now work
-  - For example: SWH returns Hammer
+  - For example: SWH returns `Hammer`
 - Updated the images for `Sunshine`, `Swiftness` (Death's Swiftness) and their Greater Variants
 - Updated the image for the Herald of Chaos set effect and renamed the setting to `Vestments of havoc`
 - Updated the image for Blood Blitz
