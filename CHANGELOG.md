@@ -11,7 +11,7 @@
   - For example: SWH returns `Hammer`
 - Updated the images for `Sunshine`, `Swiftness` (Death's Swiftness) and their Greater Variants
 - Updated the image for the Herald of Chaos set effect and renamed the setting to `Vestments of havoc`
-- Updated the image for `Blood Blitz` and `Vuln Bomb`
+- Updated the image for `Blood Blitz`, `Vuln Bomb` and `Renewal` (Adrenaline Renewal)
 - Added full name aliases to all abilities
 
 ### 2.4.2
