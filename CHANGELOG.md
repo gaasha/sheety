@@ -10,6 +10,7 @@
 - Added wildcards to ability names. Aliases and shorter names will now work
   - For example: SWH returns Hammer
 - Changed the images for `Sunshine`, `Swiftness` (Death's Swiftness) and their Greater Variants
+- Changed the image for the Herald of Chaos set effect and renamed the setting to `Vestments of havoc`
 
 ### 2.4.2
 - Fixed	Deadshot damage
