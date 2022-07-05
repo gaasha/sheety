@@ -9,6 +9,7 @@
   - For more information go [here](https://runescape.wiki/w/Enchantment_of_agony)
 - Added wildcards to ability names. Aliases and shorter names will now work
   - For example: SWH returns Hammer
+- Changed the images for `Sunshine`, `Swiftness` (Death's Swiftness) and their Greater Variants
 
 ### 2.4.2
 - Fixed	Deadshot damage
