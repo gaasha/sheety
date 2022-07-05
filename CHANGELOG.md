@@ -3,6 +3,10 @@
 - Fixed `Barge` (Greater Barge) buff to take into account channeled abilities
 - Added cooldown reduction to `Zerk` (Berserk) when `Flurry` (Greater Flurry) lands a hit
   - For more information go [here](https://runescape.wiki/w/Greater_Flurry)
+- Added an option for Enchantment of flames (Kerapac's wrist wraps)
+  - For more information go [here](https://runescape.wiki/w/Enchantment_of_flames)
+- Added an option for Enchantment of agony (Gloves of passage)
+  - For more information go [here](https://runescape.wiki/w/Enchantment_of_agony)
 
 ### 2.4.2
 - Fixed	Deadshot damage
