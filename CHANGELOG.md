@@ -7,6 +7,8 @@
   - For more information go [here](https://runescape.wiki/w/Enchantment_of_flames)
 - Added an option for Enchantment of agony (Gloves of passage)
   - For more information go [here](https://runescape.wiki/w/Enchantment_of_agony)
+- Added wildcards to ability names. Aliases and shorter names will now work
+  - For example: SWH returns Hammer
 
 ### 2.4.2
 - Fixed	Deadshot damage
