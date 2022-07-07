@@ -13,6 +13,7 @@
 - Updated the image for the Herald of Chaos set effect and renamed the setting to `Vestments of havoc`
 - Updated the image for `Blood Blitz`, `Vuln Bomb` and `Renewal` (Adrenaline Renewal)
 - Added full name aliases to all abilities
+- Fixed `Tsunami` adrenaline when under the effects of Incite Fear
 
 ### 2.4.2
 - Fixed	Deadshot damage
