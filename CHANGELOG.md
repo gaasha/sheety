@@ -1,4 +1,7 @@
 ## Change log
+### 2.4.4
+- Fixed an issue causing `apot` (Replenishment Potion) to give the effect of `renewal` (Adrenaline Renewal)
+
 ### 2.4.3
 - Fixed `Barge` (Greater Barge) buff to take into account channeled abilities
 - Added cooldown reduction to `Zerk` (Berserk) when `Flurry` (Greater Flurry) lands a hit
