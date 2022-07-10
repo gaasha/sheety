@@ -4,6 +4,7 @@
 - Fixed the duration of `zerk` (Berserk) with the Vestments of havoc armour set effect
 - Fixed adrenaline gain for consecutive ultimates when the Vestments of havoc armour is enabled
 - Fixed adrenaline gain of `enh apot` (Super adrenaline potion)
+- Added all variants of the word adrenaline to assign adrenaline: `20 adre`, `20 adrenaline`, etc.
 
 ### 2.4.3
 - Fixed `Barge` (Greater Barge) buff to take into account channeled abilities
