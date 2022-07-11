@@ -1,4 +1,7 @@
 ## Change log
+### 2.4.5
+- Fixed cooldowns when time is set to Seconds
+
 ### 2.4.4
 - Fixed an issue causing `apot` (Replenishment Potion) to give the effect of `renewal` (Adrenaline Renewal)
 - Fixed the duration of `zerk` (Berserk) with the Vestments of havoc armour set effect
