@@ -6,6 +6,7 @@
 - Fixed adrenaline gain of `enh apot` (Super adrenaline potion)
 - Updated the `adrenaline` command to accept other variants of the word
   - For example: `20 adre`, `20 adrenaline`
+- Updated the format of all buttons
 
 ### 2.4.3
 - Fixed `Barge` (Greater Barge) buff to take into account channeled abilities
