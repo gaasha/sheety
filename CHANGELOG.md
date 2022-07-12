@@ -1,6 +1,7 @@
 ## Change log
 ### 2.4.5
 - Fixed cooldowns when time is set to Seconds
+- Changed the format of the Errors column
 
 ### 2.4.4
 - Fixed an issue causing `apot` (Replenishment Potion) to give the effect of `renewal` (Adrenaline Renewal)
