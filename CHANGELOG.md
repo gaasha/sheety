@@ -4,6 +4,7 @@
 - Changed the format of the Errors column
 - Added an image for the version / outdated version
 - Fixed damage when using `Swiftness` (Death's Swiftness)
+- Added `BOLG` (Bow of the Last Guardian) special as an ability, no effects yet
 
 ### 2.4.4
 - Fixed an issue causing `apot` (Replenishment Potion) to give the effect of `renewal` (Adrenaline Renewal)
