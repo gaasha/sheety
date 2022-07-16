@@ -3,6 +3,7 @@
 - Fixed cooldowns when time is set to Seconds
 - Changed the format of the Errors column
 - Added an image for the version / outdated version
+- Fixed damage when using `Swiftness` (Death's Swiftness)
 
 ### 2.4.4
 - Fixed an issue causing `apot` (Replenishment Potion) to give the effect of `renewal` (Adrenaline Renewal)
