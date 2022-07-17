@@ -11,6 +11,7 @@
 - Fixed the `Adrenaline` command to allow integers
 - Fixed Escape/Surge/Voke/Dive to not give adrenaline mid GCD
 - Fixed Damage calculations affecting the Vestments of havoc set effect
+- Fixed Vestments of havoc 15% buff to start 1 tick later
 
 ### 2.4.4
 - Fixed an issue causing `apot` (Replenishment Potion) to give the effect of `renewal` (Adrenaline Renewal)
