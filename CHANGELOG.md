@@ -8,6 +8,7 @@
 - Fixed the speed of Loading and Exporting scripts
 - Fixed Wen Arrows not resetting stacks after the effect
 - Added a setting for `Reflexes` Invention Perk
+- Fixed the `Adrenaline` command to allow integers
 
 ### 2.4.4
 - Fixed an issue causing `apot` (Replenishment Potion) to give the effect of `renewal` (Adrenaline Renewal)
