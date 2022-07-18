@@ -13,6 +13,7 @@
 - Fixed Damage calculations affecting the Vestments of havoc set effect
 - Fixed Vestments of havoc 15% buff to start 1 tick later
 - Fixed Wen Arrows - `Swiftness` no longer activates the effect
+- Added Damage presets for No Aura/Mahjarrat/every Zerk Variant/all Zerk + Smoke Cloud
 
 ### 2.4.4
 - Fixed an issue causing `apot` (Replenishment Potion) to give the effect of `renewal` (Adrenaline Renewal)
