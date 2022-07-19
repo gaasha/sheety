@@ -1,7 +1,7 @@
 ## Change log
 ### 2.4.5
 - Fixed stalls - Stalling will no longer cancel the next ability
-- 
+- Fixed Surge adrenaline on GCD
 
 ### 2.4.5
 - Fixed cooldowns when time is set to Seconds
