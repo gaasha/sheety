@@ -2,6 +2,7 @@
 ### 2.4.5
 - Fixed stalls - Stalling will no longer cancel the next ability
 - Fixed Surge adrenaline on GCD
+- Fixed Glacial Embrace stacks before Tsunami
 
 ### 2.4.5
 - Fixed cooldowns when time is set to Seconds
