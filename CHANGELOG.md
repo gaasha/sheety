@@ -1,5 +1,9 @@
 ## Change log
 ### 2.4.5
+- Fixed stalls - Stalling will no longer cancel the next ability
+- 
+
+### 2.4.5
 - Fixed cooldowns when time is set to Seconds
 - Changed the format of the Errors column
 - Added an image for the version / outdated version
