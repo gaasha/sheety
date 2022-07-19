@@ -3,6 +3,7 @@
 - Fixed stalls - Stalling will no longer cancel the next ability
 - Fixed Surge adrenaline on GCD
 - Fixed Glacial Embrace stacks before Tsunami
+- Added a feature - `Havoc Xp` to change the amount of VOH armour pieces equipped
 
 ### 2.4.5
 - Fixed cooldowns when time is set to Seconds
