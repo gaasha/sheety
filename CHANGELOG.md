@@ -1,5 +1,5 @@
 ## Change log
-### 2.4.5
+### 2.4.6
 - Fixed stalls - Stalling will no longer cancel the next ability
 - Fixed Surge adrenaline on GCD
 - Fixed Glacial Embrace stacks before Tsunami
