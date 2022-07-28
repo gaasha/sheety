@@ -1,6 +1,6 @@
 ## Change log
 ### 2.4.7
-- Fixed an error with `Zerk` when VOH armour is disabled
+- Fixed an error with `Zerk` when Havoc armour is disabled
 - Fixed font colours when only one combat style was used
 - Fixed spell stacks after stalling and releasing abilities
 
