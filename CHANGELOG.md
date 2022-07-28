@@ -1,4 +1,7 @@
 ## Change log
+### 2.4.8
+- Fixed cooldown IDs for the Havoc armour
+
 ### 2.4.7
 - Fixed an error with `Zerk` when Havoc armour is disabled
 - Fixed font colours when only one combat style was used
