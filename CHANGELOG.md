@@ -1,4 +1,7 @@
 ## Change log
+### 2.4.7
+- Fixed an error with `Zerk` when VOH armour is disabled
+
 ### 2.4.6
 - Fixed stalls - Stalling will no longer cancel the next ability
 - Fixed Surge adrenaline on GCD
