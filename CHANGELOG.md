@@ -2,6 +2,7 @@
 ### 2.4.7
 - Fixed an error with `Zerk` when VOH armour is disabled
 - Fixed font colours when only one combat style was used
+- Fixed spell stacks after stalling and releasing abilities
 
 ### 2.4.6
 - Fixed stalls - Stalling will no longer cancel the next ability
