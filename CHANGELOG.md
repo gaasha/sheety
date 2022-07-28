@@ -3,6 +3,7 @@
 - Fixed an error with `Zerk` when Havoc armour is disabled
 - Fixed font colours when only one combat style was used
 - Fixed spell stacks after stalling and releasing abilities
+- Added aliases to the list of timers (for example: Zerk or Berserk)
 
 ### 2.4.6
 - Fixed stalls - Stalling will no longer cancel the next ability
