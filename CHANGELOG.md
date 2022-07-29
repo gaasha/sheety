@@ -2,6 +2,7 @@
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
 - Fixed formatting issues when exporting
+- Fixed FSoA damage
 
 ### 2.4.7
 - Fixed an error with `Zerk` when Havoc armour is disabled
