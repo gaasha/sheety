@@ -1,4 +1,7 @@
 ## Change log
+### 2.4.9
+- Updated formulas to speed up calculations
+
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
 - Fixed formatting issues when exporting
