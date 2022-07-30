@@ -3,6 +3,7 @@
 - Updated formulas to speed up calculations
 - Updated the load range for rotations
 - Fixed colour references for the first two cells
+- Updated the `Export` script to load faster (15s~) and require less steps
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
