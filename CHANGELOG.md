@@ -5,6 +5,7 @@
 - Fixed colour references for the first two cells
 - Updated the `Export` script to load faster (15s~) and require less steps
 - Fixed an error causing References to not be saved properly
+- Improved the loading speed of Reference scripts
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
