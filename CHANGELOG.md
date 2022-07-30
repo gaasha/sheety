@@ -1,6 +1,7 @@
 ## Change log
 ### 2.4.9
 - Updated formulas to speed up calculations
+- Updated the load range for rotations
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
