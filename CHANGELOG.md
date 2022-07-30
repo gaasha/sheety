@@ -2,6 +2,7 @@
 ### 2.4.9
 - Updated formulas to speed up calculations
 - Updated the load range for rotations
+- Fixed colour references for the first two cells
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
