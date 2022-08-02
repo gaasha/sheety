@@ -8,6 +8,7 @@
 - Improved the loading speed of Reference scripts
 - Updated all References
 - Added the ability `snipe flank` - gives the effect of the Enchantment of dread (Nightmare gauntlets)
+- Added Frost Surge
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
