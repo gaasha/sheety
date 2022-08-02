@@ -7,6 +7,7 @@
 - Fixed an error causing References to not be saved properly
 - Improved the loading speed of Reference scripts
 - Updated all References
+- Added the ability `snipe flank` - gives the effect of the Enchantment of dread (Nightmare gauntlets)
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
