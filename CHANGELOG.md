@@ -9,6 +9,8 @@
 - Updated all References
 - Added the ability `snipe flank` - gives the effect of the Enchantment of dread (Nightmare gauntlets)
 - Added Frost Surge
+- Renamed `Hydrix` to  `Hydrix Proc`
+- Added a column to equip weapons/gear or cast spells instead of typing `equip...`
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
