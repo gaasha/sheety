@@ -8,7 +8,7 @@
 - Improved the loading speed of Reference scripts
 - Updated all References
 - Added the ability `snipe flank` - gives the effect of the Enchantment of dread (Nightmare gauntlets)
-- Added Frost Surge
+- Added `Frost Surge` and its ability damage
 - Renamed `Hydrix` to  `Hydrix Proc`
 - Added a column to equip weapons/gear or cast spells instead of typing `equip...`
 - Fixed Exsanguinate damage when under FSoA
