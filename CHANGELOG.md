@@ -12,6 +12,7 @@
 - Renamed `Hydrix` to  `Hydrix Proc`
 - Added a column to equip weapons/gear or cast spells instead of typing `equip...`
 - Fixed Exsanguinate damage when under FSoA
+- Improved all scripts - reduced about 200 lines of code
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
