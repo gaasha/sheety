@@ -13,6 +13,9 @@
 - Added a column to equip weapons/gear or cast spells instead of typing `equip...`
 - Fixed Exsanguinate damage when under FSoA
 - Improved all scripts - reduced about 200 lines of code
+- Fixed damage after stalling abilities
+- Added a column for notes - this will be stored with the Save script but will not appear in exports
+- Fixed numerous performance issues by changing the code and formulas, as well as Conditional Formatting
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
