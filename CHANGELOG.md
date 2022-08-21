@@ -16,6 +16,7 @@
 - Fixed damage after stalling abilities
 - Added a column for notes - this will be stored with the Save script but will not appear in exports
 - Fixed numerous performance issues by changing the code and formulas, as well as Conditional Formatting
+- Removed Needle buff as it was inaccurate
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
