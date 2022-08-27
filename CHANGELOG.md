@@ -18,6 +18,7 @@
 - Fixed numerous performance issues by changing the code and formulas, as well as Conditional Formatting
 - Removed Needle buff as it was inaccurate
 - Fixed adrenaline given by autos with Invigorating Perk
+- Fixed monolith energy required by Fury of the Small
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
