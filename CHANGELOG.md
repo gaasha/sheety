@@ -19,6 +19,8 @@
 - Removed Needle buff as it was inaccurate
 - Fixed adrenaline given by autos with Invigorating Perk
 - Fixed monolith energy required by Fury of the Small
+- Fixed adrenaline given by VOH armour
+- Fixed ability damage when an off-style ultimates are active
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
