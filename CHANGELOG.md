@@ -21,6 +21,9 @@
 - Fixed monolith energy required by Fury of the Small
 - Fixed adrenaline given by VOH armour when at max adrenaline
 - Fixed ability damage when an off-style ultimates are active
+- Added two new buttons to replace previous functions:
+  - Export & Import: same feature as Export and Import but both in one sidebar
+  - Damage Calculations: gets damage of your current rotation. Damage no longer loads on edit for better performance
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
