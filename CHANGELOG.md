@@ -24,6 +24,7 @@
 - Added two new buttons to replace previous functions:
   - Export & Import: same feature as Export and Import but both in one sidebar
   - Damage Calculations: gets damage of your current rotation. Damage no longer loads on edit for better performance
+- Changed the width of abilities in the List of Abilities tab to fit more abilities on screen
 
 ### 2.4.8
 - Fixed cooldown IDs for the Havoc armour
