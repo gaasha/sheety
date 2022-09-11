@@ -1,5 +1,5 @@
 ## Change log
-### 2.4.9
+### 2.5.0
 - Updated formulas to speed up calculations
 - Updated the load range for rotations
 - Fixed colour references for the first two cells
