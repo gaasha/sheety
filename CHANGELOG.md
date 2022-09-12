@@ -2,6 +2,7 @@
 ### 2.5.1
 - Moved all settings and scripts to the right side of the builder
 - Fixed `Insufficient Adrenaline` errors to check the adrenaline one ability before rather than one tick before
+- Improved the loading speed of the `+ X adrenaline` feature
 
 ### 2.5.0
 - Updated formulas to speed up calculations
