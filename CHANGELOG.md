@@ -4,6 +4,7 @@
 - Fixed `Insufficient Adrenaline` errors to check the adrenaline one ability before rather than one tick before
 - Improved the loading speed of the `+ X adrenaline` feature
 - Fixed Reference templates
+- Fixed an error with unknown ability names when the range was empty
 
 ### 2.5.0
 - Updated formulas to speed up calculations
