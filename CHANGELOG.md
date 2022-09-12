@@ -1,4 +1,7 @@
 ## Change log
+### 2.5.1
+- Moved all settings and scripts to the right side of the builder
+
 ### 2.5.0
 - Updated formulas to speed up calculations
 - Updated the load range for rotations
