@@ -5,6 +5,7 @@
 - Improved the loading speed of the `+ X adrenaline` feature
 - Fixed Reference templates
 - Fixed an error with unknown ability names when the range was empty
+- Improved damage calculations by splitting Hurricane, Overpower and other abilities into individual hits
 
 ### 2.5.0
 - Updated formulas to speed up calculations
