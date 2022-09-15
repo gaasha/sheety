@@ -6,6 +6,7 @@
 - Fixed Reference templates
 - Fixed an error with unknown ability names when the range was empty
 - Improved damage calculations by splitting Hurricane, Overpower and other abilities into individual hits
+- Removed the Notes column in `Abilities` and replaced it with a column for chaos roar
 
 ### 2.5.0
 - Updated formulas to speed up calculations
