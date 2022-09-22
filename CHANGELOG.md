@@ -1,4 +1,8 @@
 ## Change log
+### 2.5.2
+- Fixed errors related to cooldowns after using `Time Warp`
+  -  In exchange for this, cooldowns will be ignored during TW and will not return any errors
+
 ### 2.5.1
 - Moved all settings and scripts to the right side of the builder
 - Fixed `Insufficient Adrenaline` errors to check the adrenaline one ability before rather than one tick before
