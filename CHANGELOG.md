@@ -2,6 +2,7 @@
 ### 2.5.2
 - Fixed errors related to cooldowns after using `Time Warp`
   -  In exchange for this, cooldowns will be ignored during TW and will not return any errors
+- Images that depend on long loading times have been split from the regular images to improve performance while building rotations
 
 ### 2.5.1
 - Moved all settings and scripts to the right side of the builder
