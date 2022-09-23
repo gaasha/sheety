@@ -4,6 +4,7 @@
   -  In exchange for this, cooldowns will be ignored during TW and will not return any errors
 - Images that depend on long loading times have been split from the regular images to improve performance while building rotations
 - Fixed `SGB` damage
+- Fixed `Load Rotations` to delete previous damage
 
 ### 2.5.1
 - Moved all settings and scripts to the right side of the builder
