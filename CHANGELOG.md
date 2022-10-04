@@ -7,6 +7,7 @@
 - Fixed `Load Rotations` to delete previous damage
 - Fixed images not loading with ability aliases
 - Fixed aura icons
+- Fixed cooldown errors not appearing
 
 ### 2.5.1
 - Moved all settings and scripts to the right side of the builder
