@@ -1,5 +1,8 @@
 ## Change log
 ### Unreleased
+- 
+
+### 2.5.2
 - Fixed errors related to cooldowns after using `Time Warp`
   -  In exchange for this, cooldowns will be ignored during TW and will not return any errors
 - Images that depend on long loading times have been split from the regular images to improve performance while building rotations
