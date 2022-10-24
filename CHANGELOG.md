@@ -1,6 +1,6 @@
 ## Change log
 ### Unreleased
-- 
+- Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
 
 ### 2.5.2
 - Fixed errors related to cooldowns after using `Time Warp`
