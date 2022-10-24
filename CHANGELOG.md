@@ -1,6 +1,7 @@
 ## Change log
 ### Unreleased
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
+- Fixed not being able to cast ECB the tick after the previous ECB ends
 
 ### 2.5.2
 - Fixed errors related to cooldowns after using `Time Warp`
