@@ -1,8 +1,6 @@
 ## Change log
 ### Unreleased
-- Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
-- Fixed not being able to cast ECB the tick after the previous ECB ends
-- Fixed Incite Tsunami using stacks after the effect expired
+- 
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
