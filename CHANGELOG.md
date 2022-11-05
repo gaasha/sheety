@@ -1,6 +1,7 @@
 ## Change log
 ### Unreleased
-- 
+- Fixed broken images
+- Fixed the image for `TC`
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
