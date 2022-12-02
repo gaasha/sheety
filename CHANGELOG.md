@@ -2,6 +2,7 @@
 ### Unreleased
 - Fixed broken images
 - Fixed the image for `TC`
+- Added a filter for the **Swaps** column
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
