@@ -4,6 +4,7 @@
 - Fixed the image for `TC`
 - Added a filter for the **Swaps** column
 - Added `Dscim` (Dragon Scimitar) special attack
+- Fixed adrenaline cap when Havoc armour is enabled
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
