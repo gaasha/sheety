@@ -7,6 +7,7 @@
 - Fixed adrenaline cap when Havoc armour is enabled
 - Added `DLong` (Dragon Longsword) special attack
 - Changed images for `TC` and `Lose Target`
+- Fixed a typo with tips
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
