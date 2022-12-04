@@ -10,6 +10,7 @@
 - Fixed a typo with tips
 - Rotations and References will now move up/down when the initial tick is changed (must select the **Blank** template)
 - Fixed an issue with the Extra relic and Persistent Rage
+- Improved the script to **Export** by adding a blank sheet for the user if there wasn't one available
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
