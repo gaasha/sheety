@@ -12,6 +12,7 @@
 - Fixed an issue with the Extra relic and Persistent Rage
 - Improved the script to **Export** by adding a blank sheet for the user if there wasn't one available
 - Fixed `DClaws` hit timings
+- Removed cooldowns for `Dhally` and its shared cooldown with Cleave
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
