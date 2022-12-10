@@ -13,6 +13,8 @@
 - Improved the script to **Export** by adding a blank sheet for the user if there wasn't one available
 - Fixed `DClaws` hit timings
 - Removed cooldowns for `Dhally` and its shared cooldown with Cleave
+- Fixed a bug with Exsanguinate stacks damage
+- Introduced a lot more bugs because I suck at this
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
