@@ -15,6 +15,7 @@
 - Removed cooldowns for `Dhally` and its shared cooldown with Cleave
 - Fixed a bug with Exsanguinate stacks damage
 - Introduced a lot more bugs because I suck at this
+- Fixed `Chaos Roar` to not break when non-melee abilities are used
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
