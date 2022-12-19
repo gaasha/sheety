@@ -17,7 +17,7 @@
 - Fixed `Chaos Roar` to not break when non-melee abilities are used
 - Fixed `Smoke Cloud` not releasing stalls
 - Changed the design of some parts of the builder
-- Added the ability to hide columns with checkboxes (Settings)
+- Added the ability to hide columns with checkboxes in the Settings
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
