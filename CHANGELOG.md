@@ -19,6 +19,7 @@
 - Changed the design of some parts of the builder
 - Added the ability to hide columns with checkboxes in the Settings
 - Sped up the process of damage calcs
+- Fixed hit timings for `Binding Shot` and `Tight Bindings`
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
