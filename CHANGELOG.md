@@ -20,6 +20,8 @@
 - Added the ability to hide columns with checkboxes in the Settings
 - Sped up the process of damage calcs
 - Fixed hit timings for `Binding Shot` and `Tight Bindings`
+- Added Bolg stacks
+- Added `Clear bolg` to clear the current stacks
 
 ### 2.5.3
 - Fixed adrenaline for Voke/Surge/Escape/Dive off/on GCD
