@@ -1,5 +1,8 @@
 ## Change log
 ### Unreleased
+-
+
+### 2.5.4
 - Fixed broken images
 - Fixed the image for `TC`
 - Added a filter for the **Swaps** column
