@@ -1,6 +1,8 @@
 ## Change log
 ### Unreleased
-```Bug fixes```
+```
+Bug fixes
+```
 - Fixed damage calculations
 - Hit timings: removed '1' after single hit abilities
 - Fixed `Shadow Tendrils` hit timing
