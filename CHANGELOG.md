@@ -1,8 +1,11 @@
 ## Change log
 ### Unreleased
-
-> Removed '1's from single hits (Hit timings)
+> Bug fixes
+- Removed '1's from single hits (Hit timings)
 - Fixed damage calculations
+
+> Newly added
+- 
 
 ### 2.5.4
 - Fixed broken images
