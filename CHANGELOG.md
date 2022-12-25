@@ -2,6 +2,7 @@
 ### Unreleased
 > Bug fixes
 - Fixed damage calculations
+- Removed 1s from single hit abilities hit timings
 
 > Newly added / QOL
 - Smoke cloud can now release stalls
