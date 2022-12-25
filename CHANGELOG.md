@@ -8,6 +8,11 @@
 
 | Highlights |
 - Smoke cloud can now release stalls
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+
+
 ---
 ### 2.5.4
 - Fixed broken images
