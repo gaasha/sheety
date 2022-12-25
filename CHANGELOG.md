@@ -9,7 +9,7 @@
 | Highlights |
 - Smoke cloud can now release stalls
 
-| First Header  | Second Header |
+| First Header  |
 | ------------- | ------------- |
 
 
