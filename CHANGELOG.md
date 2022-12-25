@@ -1,6 +1,7 @@
 ## Change log
 ### Unreleased
-- Removed '1's from single hits (Hit timings)
+
+> Removed '1's from single hits (Hit timings)
 - Fixed damage calculations
 
 ### 2.5.4
