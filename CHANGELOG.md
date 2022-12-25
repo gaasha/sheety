@@ -6,9 +6,9 @@
 - Fixed `Shadow Tendrils` hit timing
 - Fixed BOLG stacks and PE for `Grico`, `BOLG` spec and `Shadow Tendrils`
 
-> Newly added / QOL
+> Highlights
 - Smoke cloud can now release stalls
-
+---
 ### 2.5.4
 - Fixed broken images
 - Fixed the image for `TC`
