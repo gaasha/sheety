@@ -3,6 +3,8 @@
 > Bug fixes
 - Fixed damage calculations
 - Hit timings: removed '1' after single hit abilities
+- Fixed `Shadow Tendrils` hit timing
+- Fixed BOLG stacks and PE for `Grico`, `BOLG` spec and `Shadow Tendrils`
 
 > Newly added / QOL
 - Smoke cloud can now release stalls
