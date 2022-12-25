@@ -1,6 +1,6 @@
 ## Change log
 ### Unreleased
--
+- Fixed hit timings for single hits (no longer show '1')
 
 ### 2.5.4
 - Fixed broken images
