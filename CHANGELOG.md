@@ -4,8 +4,8 @@
 - Removed '1's from single hits (Hit timings)
 - Fixed damage calculations
 
-> Newly added
-- 
+> Newly added / QOL / Highlights
+- Smoke cloud can now release stalls
 
 ### 2.5.4
 - Fixed broken images
