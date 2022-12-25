@@ -9,12 +9,6 @@
 > Newly added / QOL
 - Smoke cloud can now release stalls
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :- |:-:| -:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        | $12 |
-| zebra stripes | are neat        | $1 |
-
 ### 2.5.4
 - Fixed broken images
 - Fixed the image for `TC`
