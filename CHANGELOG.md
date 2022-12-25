@@ -8,7 +8,9 @@ Bug fixes
 - Fixed `Shadow Tendrils` hit timing
 - Fixed BOLG stacks and PE for `Grico`, `BOLG` spec and `Shadow Tendrils`
 
-```Highlights```
+```
+Highlights
+```
 - Smoke cloud can now release stalls
 
 ---
