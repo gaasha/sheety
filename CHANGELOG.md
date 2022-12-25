@@ -1,7 +1,6 @@
 ## Change log
 ### Unreleased
 > Bug fixes
-- Removed '1's from single hits (Hit timings)
 - Fixed damage calculations
 
 > Newly added / QOL
