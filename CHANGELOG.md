@@ -8,6 +8,7 @@
 
 > Highlights
 - Smoke cloud can now release stalls
+- Added the ability to copy your rotation into PvME's rotation builder
 
 ---
 ### 2.5.4
