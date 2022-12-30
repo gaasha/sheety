@@ -14,6 +14,7 @@
 - `Crit` will now recognize when FSoA is active
 - Importing from previous versions will now also import exported rotations
 - PvME Builder feature now allows to use stored exported rotations
+- Changed the design
 
 ---
 ### 2.5.4
