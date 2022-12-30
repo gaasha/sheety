@@ -12,6 +12,8 @@
 - Smoke cloud can now release stalls
 - Added the ability to copy your rotation into [PvME builder](https://i.gyazo.com/f41775cef06ccdf913762c5e369611d5.mp4)
 - `Crit` will now recognize when FSoA is active
+- Importing from previous versions will now also import exported rotations
+- PvME Builder feature now allows to use stored exported rotations
 
 ---
 ### 2.5.4
