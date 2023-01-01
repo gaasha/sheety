@@ -7,6 +7,7 @@
 - Fixed BOLG stacks and PE for `Grico`, `BOLG` spec and `Shadow Tendrils`
 - Removed Hit timings during nulled ticks
 - Removed checkboxes from the top of the builder
+- Fixed hit timings for `DDS` and `DClaws`
 
 > Highlights
 - Smoke cloud can now release stalls
