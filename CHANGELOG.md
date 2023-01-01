@@ -16,6 +16,7 @@
 - Importing from previous versions will now also import exported rotations
 - PvME Builder feature now allows to use stored exported rotations
 - Changed the design
+- Hit timings: removed '1' after single hit abilities
 
 ---
 ### 2.5.4
