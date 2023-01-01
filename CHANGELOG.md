@@ -8,6 +8,7 @@
 - Removed checkboxes from the top of the builder
 - Fixed hit timings for `DDS` and `DClaws`
 - Changed hit timing names
+- Simplified hit timing calcs
 
 > Highlights
 - Smoke cloud can now release stalls
