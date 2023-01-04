@@ -9,6 +9,7 @@
 - Fixed hit timings for `DDS` and `DClaws`
 - Changed hit timing names
 - Simplified hit timing calcs
+- Improved the sidebar feature, exports speed, import, and other scripts
 
 > Highlights
 - Smoke cloud can now release stalls
@@ -18,6 +19,7 @@
 - PvME Builder feature now allows to use stored exported rotations
 - Changed the design
 - Hit timings: removed '1' after single hit abilities
+- Exports will now save the format for the PvME Builder to be used at any moment
 
 ---
 ### 2.5.4
