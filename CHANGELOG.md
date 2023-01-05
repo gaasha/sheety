@@ -24,6 +24,7 @@
 - Exports will now save the format for the PvME Builder to be used at any moment
 - Added more slots for abilities and aliases
 - Updated damage for Dragon weapons: `DDS`, `DMace`, `DClaws`, `DLong`, `D2H`, `DHally`
+- Added a Hybrid style - Damage will only be calculated for the selected style
 
 ---
 ### 2.5.4
