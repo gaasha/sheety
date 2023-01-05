@@ -11,6 +11,7 @@
 - Simplified hit timing calcs
 - Improved the sidebar, exports speed, import, and other scripts
 - Fixed the ability search bar not resetting
+- Added `Ezk` (6, 9 bleed hits) hit timings
 
 > Highlights
 - Smoke cloud can now release stalls
