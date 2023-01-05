@@ -20,6 +20,7 @@
 - Changed the design
 - Hit timings: removed '1' after single hit abilities
 - Exports will now save the format for the PvME Builder to be used at any moment
+- Added more slots for abilities and aliases
 
 ---
 ### 2.5.4
