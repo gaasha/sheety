@@ -9,7 +9,8 @@
 - Fixed hit timings for `DDS` and `DClaws`
 - Changed hit timing names
 - Simplified hit timing calcs
-- Improved the sidebar feature, exports speed, import, and other scripts
+- Improved the sidebar, exports speed, import, and other scripts
+- Fixed the ability search bar not resetting
 
 > Highlights
 - Smoke cloud can now release stalls
@@ -21,6 +22,7 @@
 - Hit timings: removed '1' after single hit abilities
 - Exports will now save the format for the PvME Builder to be used at any moment
 - Added more slots for abilities and aliases
+- Updated damage for Dragon weapons: `DDS`, `DMace`, `DClaws`, `DLong`, `D2H`, `DHally`
 
 ---
 ### 2.5.4
