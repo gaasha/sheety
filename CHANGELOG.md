@@ -2,6 +2,7 @@
 ### Unreleased
 > Bug fixes
 - Fixed hit timing names for dragon weapons and `Chaos Roar`
+- Fixed `Leng` spec duration
 
 
 > Highlights
