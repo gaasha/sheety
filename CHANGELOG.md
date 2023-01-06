@@ -25,6 +25,7 @@
 - Added more slots for abilities and aliases
 - Updated damage for Dragon weapons: `DDS`, `DMace`, `DClaws`, `DLong`, `D2H`, `DHally`
 - Added a Hybrid style - Damage will only be calculated for the selected style
+- Added hit timings for `DScim`
 
 ---
 ### 2.5.4
