@@ -1,7 +1,7 @@
 ## Change log
 ### Unreleased
 > Bug fixes
-- 
+- Fixed hit timings for dragon weapons
 
 
 > Highlights
