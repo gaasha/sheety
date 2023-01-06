@@ -27,6 +27,7 @@
 - Added hit timings for `DScim`
 - Importing from previous versions will now also import exported rotations
 - When exporting: if no sheet is available you may create one with the dropdown options
+- Changed the format of script images
 
 ---
 ### 2.5.4
