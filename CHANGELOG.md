@@ -1,7 +1,7 @@
 ## Change log
 ### Unreleased
 > Bug fixes
-- Fixed hit timing names for dragon weapons
+- Fixed hit timing names for dragon weapons and `Chaos Roar`
 
 
 > Highlights
