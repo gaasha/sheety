@@ -12,20 +12,21 @@
 - Improved the sidebar, exports speed, import, and other scripts
 - Fixed the ability search bar not resetting
 - Added `Ezk` (6, 9 bleed hits) hit timings
+- `Crit` will now recognize when FSoA is active
 
 > Highlights
 - Smoke cloud can now release stalls
 - Added the ability to copy your rotation into [PvME builder](https://i.gyazo.com/f41775cef06ccdf913762c5e369611d5.mp4)
-- `Crit` will now recognize when FSoA is active
-- Importing from previous versions will now also import exported rotations
 - PvME Builder feature now allows to use stored exported rotations
+- Exports will save data needed for the PvME Builder to be used at any moment
 - Changed the design
 - Hit timings: removed '1' after single hit abilities
-- Exports will now save the format for the PvME Builder to be used at any moment
 - Added more slots for abilities and aliases
 - Updated damage for Dragon weapons: `DDS`, `DMace`, `DClaws`, `DLong`, `D2H`, `DHally`
 - Added a Hybrid style - Damage will only be calculated for the selected style
 - Added hit timings for `DScim`
+- Importing from previous versions will now also import exported rotations
+- When exporting: if no sheet is available you may create one with the dropdown options
 
 ---
 ### 2.5.4
