@@ -1,6 +1,15 @@
 ## Change log
 ### Unreleased
 > Bug fixes
+- 
+
+
+> Highlights
+- 
+
+
+### 2.5.5
+> Bug fixes
 - Fixed damage calculations
 - Fixed `Shadow Tendrils` hit timing
 - Fixed BOLG stacks and PE for `Grico`, `BOLG` spec and `Shadow Tendrils`
@@ -29,7 +38,6 @@
 - When exporting: if no sheet is available you may create one with the dropdown options
 - Changed the format of script images
 
----
 ### 2.5.4
 - Fixed broken images
 - Fixed the image for `TC`
