@@ -7,7 +7,8 @@
 
 
 > Highlights
-- 
+- PvME builder feature: comments add a line break automatically
+- Using `/` before or after a comment will act as a line break
 
 
 ### 2.5.5
