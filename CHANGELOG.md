@@ -3,6 +3,7 @@
 > Bug fixes
 - Fixed hit timing names for dragon weapons and `Chaos Roar`
 - Fixed `Leng` spec duration
+- Fixed negative adrenaline not showing red colour
 
 
 > Highlights
