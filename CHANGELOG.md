@@ -4,6 +4,7 @@
 - Fixed hit timing names for dragon weapons and `Chaos Roar`
 - Fixed `Leng` spec duration
 - Fixed negative adrenaline not showing red colour
+- PvME builder feaure: perks that aren't active will no longer show
 
 
 > Highlights
