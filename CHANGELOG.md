@@ -5,6 +5,7 @@
 - Fixed `Leng` spec duration
 - Fixed negative adrenaline not showing red colour
 - PvME builder feaure: perks that aren't active will no longer show
+- Fixed `Abs` hit timings
 
 
 > Highlights
