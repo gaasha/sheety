@@ -10,6 +10,7 @@
 > Highlights
 - PvME builder feature: comments add a line break automatically
 - Using `/` before or after a comment will act as a line break
+- PvME builder feature: can now change the colour and background colour of the rotation title
 
 
 ### 2.5.5
