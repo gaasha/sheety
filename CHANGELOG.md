@@ -8,6 +8,7 @@
 - Fixed `Abs` hit timings
 - Fixed `Wrackruin` image not showing
 - Fixed `Binding Shot Flank` damage
+- Fixed dragon weaponry damage
 
 
 > Highlights
