@@ -7,6 +7,7 @@
 - PvME builder feaure: perks that aren't active will no longer show
 - Fixed `Abs` hit timings
 - Fixed `Wrackruin` image not showing
+- Fixed `Binding Shot Flank` damage
 
 
 > Highlights
