@@ -19,6 +19,7 @@
 - Using `/` before or after a comment will act as a line break
 - PvME builder feature: can now change the colour and background colour of the rotation title
 - Refreshed all `ECB` damage
+- Added a reference template: Vorago Phase 1 - Accel Climb
 
 
 ### 2.5.5
