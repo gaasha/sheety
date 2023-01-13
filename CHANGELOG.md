@@ -10,6 +10,7 @@
 - Fixed `Binding Shot Flank` damage
 - Fixed dragon weaponry damage
 - Fixed `SGB` damage
+- Fixed the Import script
 
 
 > Highlights
