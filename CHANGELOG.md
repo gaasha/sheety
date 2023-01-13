@@ -11,6 +11,7 @@
 - Fixed dragon weaponry damage
 - Fixed `SGB` damage
 - Fixed the Import script
+- Fixed Hit timings after Bolg proc
 
 
 > Highlights
