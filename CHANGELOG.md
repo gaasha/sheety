@@ -12,6 +12,7 @@
 - Fixed `SGB` damage
 - Fixed the Import script
 - Fixed Hit timings after Bolg proc
+- Fixed design issues with the Header
 
 
 > Highlights
