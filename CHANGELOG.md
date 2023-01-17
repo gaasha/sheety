@@ -13,6 +13,7 @@
 - Fixed the Import script
 - Fixed Hit timings after Bolg proc
 - Fixed design issues with the Header
+- Switched the position of Swaps and its images
 
 
 > Highlights
@@ -21,6 +22,8 @@
 - PvME builder feature: can now change the colour and background colour of the rotation title
 - Refreshed all `ECB` damage
 - Added a reference template: Vorago Phase 1 - Accel Climb
+- Damage loads on edit and no longer requires scripts
+- Optimised all formulas that required the old damage script
 
 
 ### 2.5.5
