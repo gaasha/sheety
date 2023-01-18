@@ -14,6 +14,7 @@
 - Fixed Hit timings after Bolg proc
 - Fixed design issues with the Header
 - Switched the position of Swaps and its images
+- Broke bolg, fixed it, broke it again, fixed it but it wasn't fixed, fixed bolg
 
 
 > Highlights
