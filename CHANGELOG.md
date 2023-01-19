@@ -25,6 +25,7 @@
 - Added a reference template: Vorago Phase 1 - Accel Climb
 - Damage loads on edit and no longer requires scripts
 - Optimised all formulas that required the old damage script
+- Added images to show current Bolg stacks
 
 
 ### 2.5.5
