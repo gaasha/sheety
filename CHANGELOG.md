@@ -26,6 +26,7 @@
 - Damage loads on edit and no longer requires scripts
 - Optimised all formulas that required the old damage script
 - Added images to show current Bolg stacks
+- Started the process of fixing all formulas one by one. Half of the main Sheet was updated along with several bug fixes
 
 
 ### 2.5.5
