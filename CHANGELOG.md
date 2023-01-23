@@ -12,7 +12,7 @@
 - Fixed hit timing names for dragon weapons and `Chaos Roar`
 - Fixed `Leng` spec duration
 - Fixed negative adrenaline not showing red colour
-- PvME builder feaure: perks that aren't active will no longer show
+- PvME builder feature: perks that aren't active will no longer show
 - Fixed `Abs` hit timings
 - Fixed `Wrackruin` image not showing
 - Fixed `Binding Shot Flank` damage
@@ -35,8 +35,7 @@
 - Added images to show current Bolg stacks
 - Started the process of fixing all formulas one by one. Half of the main Sheet was updated along with several bug fixes
 - More than one stack image can be shown at the same time
-
-
+ 
 ### 2.5.5
 > Bug fixes
 - Fixed damage calculations
