@@ -1,6 +1,14 @@
 ## Change log
 ### Unreleased
 > Bug fixes
+- 
+
+> Highlights
+- 
+
+
+### 2.5.6
+> Bug fixes
 - Fixed hit timing names for dragon weapons and `Chaos Roar`
 - Fixed `Leng` spec duration
 - Fixed negative adrenaline not showing red colour
@@ -15,7 +23,6 @@
 - Fixed design issues with the Header
 - Switched the position of Swaps and its images
 - Broke bolg, fixed it, broke it again, fixed it but it wasn't fixed, fixed bolg
-
 
 > Highlights
 - PvME builder feature: comments add a line break automatically
