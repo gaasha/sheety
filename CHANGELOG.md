@@ -1,10 +1,10 @@
 ## Change log
 ### Unreleased
 > Bug fixes
-- 
+- `Smoke Cloud` no longer clears stalls and will now release them
 
 > Highlights
-- 
+- More formula optimisation and updating
 
 
 ### 2.5.6
