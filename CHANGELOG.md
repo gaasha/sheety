@@ -5,6 +5,9 @@
 
 > Highlights
 - More formula optimisation and updating
+- Changed all damage ranges and reformatted the database for easier use
+- Lost stall error is disabled until a future version
+- Can now use `relentless` and `stall` before or after an ability
 
 
 ### 2.5.6
