@@ -1,6 +1,13 @@
 ## Change log
 ### Unreleased
 > Bug fixes
+- 
+
+> Highlights
+- 
+
+### 2.5.7
+> Bug fixes
 - `Smoke Cloud` no longer clears stalls and will now release them
 
 > Highlights
@@ -8,7 +15,6 @@
 - Changed all damage ranges and reformatted the database for easier use
 - Lost stall error is disabled until a future version
 - Can now use `relentless` and `stall` before or after an ability
-
 
 ### 2.5.6
 > Bug fixes
