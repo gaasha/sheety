@@ -1,7 +1,7 @@
 ## Change log
 ### Unreleased
 > Bug fixes
-- 
+- First tick adre consuming abilities will no longer randomly activate relentless
 
 > Highlights
 - 
