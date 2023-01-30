@@ -2,6 +2,7 @@
 ### Unreleased
 > Bug fixes
 - First tick adre consuming abilities will no longer randomly activate relentless
+- Fixed ability timers not resetting if they were used again
 
 > Highlights
 - 
