@@ -5,6 +5,8 @@
 - Fixed ability timers not resetting if they were used again
 - Fixed Inspiration aura
 - PE will now give adrenaline when using Inspiration aura
+- Fixed Limitless not activating
+- Fixed errors for limitless
 
 > Highlights
 - 
