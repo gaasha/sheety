@@ -9,7 +9,7 @@
 - Fixed errors for limitless
 
 > Highlights
-- 
+- Fixed SGB damage when in the Hybrid preset
 
 ### 2.5.7
 > Bug fixes
