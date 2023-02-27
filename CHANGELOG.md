@@ -10,6 +10,7 @@
 
 > Highlights
 - Fixed SGB damage when in the Hybrid preset
+- Updated `Incendiary` hit timing (1t later than before)
 
 ### 2.5.7
 > Bug fixes
