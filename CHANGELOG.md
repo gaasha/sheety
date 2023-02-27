@@ -1,7 +1,7 @@
 ## Change log
 ### Unreleased
 > Bug fixes
-- First tick adre consuming abilities will no longer randomly relentless
+- First tick adre consuming abilities will no longer randomly use relentless
 - Fixed ability timers not resetting if they were used again
 - Fixed Inspiration aura
 - PE will now give adrenaline when using Inspiration aura
