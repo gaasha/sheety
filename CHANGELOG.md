@@ -13,6 +13,7 @@
 - Fixed SGB damage when in the Hybrid preset
 - Updated `Incendiary` hit timing (1t later than before)
 - Updated column sizes to better fit in your screen
+- Updated cells with abilities on cooldown to be turned red with white background
 
 ### 2.5.7
 > Bug fixes
