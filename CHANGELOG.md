@@ -14,6 +14,7 @@
 - Updated `Incendiary` hit timing (1t later than before)
 - Updated column sizes to better fit in your screen
 - Updated cells with abilities on cooldown to be turned red with white background
+- Added a background colour and font colour to the title of the builder to match current combat style
 
 ### 2.5.7
 > Bug fixes
