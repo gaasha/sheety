@@ -15,6 +15,7 @@
 - Updated column sizes to better fit in your screen
 - Updated cells with abilities on cooldown to be turned red with white background
 - Added a background colour and font colour to the title of the builder to match current combat style
+- Auras will be shown at the top of the builder and in the exports
 
 ### 2.5.7
 > Bug fixes
