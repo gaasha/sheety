@@ -17,6 +17,7 @@
 - Added a background colour and font colour to the title of the builder to match current combat style
 - Auras will be shown at the top of the builder and in the exports
 - Removed black backgrounds from all images
+- Updated `Sonic Wave` image
 
 ### 2.5.7
 > Bug fixes
