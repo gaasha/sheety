@@ -19,6 +19,7 @@
 - Removed black backgrounds from all images
 - Updated `Sonic Wave` image
 - Updated colour references to be shown in the order they are used
+- Added `critxN` where N is an integer - this will assign `crit` adrenaline N times (i.e. critx3 = 30%)
 
 ### 2.5.7
 > Bug fixes
