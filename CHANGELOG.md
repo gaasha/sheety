@@ -18,6 +18,7 @@
 - Auras will be shown at the top of the builder and in the exports
 - Removed black backgrounds from all images
 - Updated `Sonic Wave` image
+- Updated colour references to be shown in the order they are used
 
 ### 2.5.7
 > Bug fixes
