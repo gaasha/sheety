@@ -1,6 +1,13 @@
 ## Change log
 ### Unreleased
 > Bug fixes
+- Fixed coloured timers
+
+> Highlights
+- 
+
+### 2.5.8
+> Bug fixes
 - First tick adre consuming abilities will no longer randomly use relentless
 - Fixed ability timers not resetting if they were used again
 - Fixed Inspiration aura
