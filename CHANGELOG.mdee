@@ -1,12 +1,20 @@
 ## Change log
 ### Unreleased
 > Bug fixes
-- Fixed coloured timers
-- Fixed `Dbow` being read as `SGB`
-- Fixed black background images for realsies this time
+- 
 
 > Highlights
 - 
+
+### 2.5.9
+> Bug fixes
+- Fixed coloured timers
+- Fixed `Dbow` being read as `SGB`
+- Fixed black background images for realsies this time
+- Fixed bolg stacks
+
+> Highlights
+- None
 
 ### 2.5.8
 > Bug fixes
