@@ -2,6 +2,7 @@
 ### Unreleased
 > Bug fixes
 - Fixed coloured timers
+- Fixed `Dbow` being read as `SGB`
 
 > Highlights
 - 
