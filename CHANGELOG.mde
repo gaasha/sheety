@@ -2,6 +2,7 @@
 ### Unreleased
 > Bug fixes
 - Fixed ECB and Ful damage
+- Fixed hit timings
 
 > Highlights
 - Linked ability damage maths with sheety for more accurate damage (might be slower)
