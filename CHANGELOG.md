@@ -1,6 +1,13 @@
 ## Change log
 ### Unreleased
 > Bug fixes
+- 
+
+> Highlights
+- 
+
+### 2.6.0
+> Bug fixes
 - Fixed ECB and Ful damage
 - Fixed hit timings
 
