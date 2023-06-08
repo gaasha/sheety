@@ -1,7 +1,7 @@
 ## Change log
 ### Unreleased
 > Bug fixes
-- 
+- Havoc armour qol bug fixes
 
 > Highlights
 - 
