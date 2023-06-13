@@ -2,9 +2,10 @@
 ### Unreleased
 > Bug fixes
 - Havoc armour qol bug fixes
+- Fixed spell stacks
 
 > Highlights
-- 
+- Added `Punish-Low`
 
 ### 2.6.0
 > Bug fixes
